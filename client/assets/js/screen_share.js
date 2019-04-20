@@ -1,9 +1,3 @@
-// Last updated On: January 18, 2019
-
-// Muaz Khan      - www.MuazKhan.com
-// MIT License    - www.WebRTC-Experiment.com/licence
-// Documentation  - github.com/muaz-khan/WebRTC-Experiment/tree/master/Pluginfree-Screen-Sharing
-
 var isbroadcaster = false;
 var conference = function(config) {
     if (typeof adapter === 'undefined' || typeof adapter.browserDetails === 'undefined') {
